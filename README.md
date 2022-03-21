@@ -38,6 +38,6 @@ You've created a new ASP.NET Core project. [Learn what's new](https://go.microso
 
 We would love to hear your [feedback](https://go.microsoft.com/fwlink/?LinkId=518015)
 
-## Following My Lead
-<script src="https://gist.github.com/adamgogogo/922b45ee7c804c8acbc294f3e187c988.js"></script>
+## ==> [Following My Lead](https://gist.github.com/adamgogogo/922b45ee7c804c8acbc294f3e187c988)
+
 
